@@ -1,6 +1,6 @@
 # deep_learning
 
-                                         Tensorflow 2.x Object Detection Tutorial on Weapon Dataset
+                             Tensorflow 2.x Object Detection Tutorial on Weapon Dataset
 
 Authors: Mr. Ali shafique, Zafar Iqbal, Aftab Karim, Ayesha Afzal, Bushra Hafeez
 
