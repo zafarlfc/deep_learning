@@ -1,8 +1,7 @@
-# deep_learning
 
-                             Tensorflow 2.x Object Detection Tutorial on Weapon Dataset
+#                             Tensorflow 2.x Object Detection Tutorial on Weapon Dataset
 
-Authors: Mr. Ali shafique, Zafar Iqbal, Aftab Karim, Ayesha Afzal, Bushra Hafeez
+>### Authors: Mr. Ali shafique, Zafar Iqbal, Aftab Karim, Ayesha Afzal, Bushra Hafeez
 
 This blog has been written by the students of Artificial Intelligence Research Group under the supervision of Mr. Ali Shafique in the Department of Electrical Engineering 
 at University of Engineering and Technology Lahore. In this blog Efficient-d0 model has been trained on weapon dataset.
@@ -13,11 +12,11 @@ Precision (mAP) on COCO Dataset. We will use Google Collaboratory to train the m
 use weapon dataset. This tutorial includes all the necessary code cells to train the model for object detection. We have got a great deal of help from
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/. You can learn more about this notebook on medium article by following this link ___.
 
-Resources:
-1. TensorFlow 2 object detection API tutorial, https://tensorflow-object-detectionapi-tutorial.readthedocs.io/en/latest/.
-2. Custom dataset preparation for object detection tutorial by Moses Olafenwa, https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d
-3. Weapon dataset link, https://sci2s.ugr.es/weapons-detection
-4. TensorFlow model repository on github, https://github.com/tensorflow/models.
-5. TensorFlow records tutorial by Thomas Gamauf, https://medium.com/mostlyai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564.
-6. TensorFlow 2 object detection model zoo, https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
-7. Tensorboard tutorial, https://neptune.ai/blog/tensorboard-tutorial
+>## Resources:
+- TensorFlow 2 object detection API tutorial, https://tensorflow-object-detectionapi-tutorial.readthedocs.io/en/latest/.
+- Custom dataset preparation for object detection tutorial by Moses Olafenwa, [Object Detection Training — Preparing your custom dataset](https://medium.com/deepquestai/object-detection-training-preparing-your-custom-dataset-6248679f0d1d)
+- Weapon dataset link, https://sci2s.ugr.es/weapons-detection
+- TensorFlow model repository on github, https://github.com/tensorflow/models.
+- TensorFlow records tutorial by Thomas Gamauf, https://medium.com/mostlyai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564.
+- TensorFlow 2 object detection model zoo, [Tensorflow 2 model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- Tensorboard tutorial, https://neptune.ai/blog/tensorboard-tutorial
