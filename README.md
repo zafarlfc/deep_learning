@@ -7,7 +7,7 @@ This blog has been written by the students of Artificial Intelligence Research G
 at University of Engineering and Technology Lahore. In this blog Efficient-d0 model has been trained on weapon dataset.
 
 <p align="center">
-  <img src="img.png" alt="image"/>
+  <img src="img.png" width="400" height="250" alt="image"/>
 </p>
 
 In this tutorial we will learn how to train object detection model using TensorFlow 2 object detection API. TensorFlow 2 object detection API has been released on 10th July
