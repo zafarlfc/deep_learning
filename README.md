@@ -6,7 +6,7 @@
 This blog has been written by the students of Artificial Intelligence Research Group under the supervision of Mr. Ali Shafique in the Department of Electrical Engineering 
 at University of Engineering and Technology Lahore. In this blog Efficient-d0 model has been trained on weapon dataset.
 
-![Alt text]()
+![Alt text](img.png)
 
 In this tutorial we will learn how to train object detection model using TensorFlow 2 object detection API. TensorFlow 2 object detection API has been released on 10th July
 2020 with lots of improvements as compared to the TensorFlow version 1. There has been a lot of new deep learning models with better computational speed and Mean Average 
